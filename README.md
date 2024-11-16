@@ -1,66 +1,32 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+NAMA  :DIMAS JANUAR PRADANA
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+KELAS :2A TRPL
 
-## About Laravel
+NIM   :362358302077
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+# Langkah 6: Pengujian API
+registrasi
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+login
+![http___localhost_8000_api_login - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 19 48 42](https://github.com/user-attachments/assets/e8b9e4dd-54cd-4f60-8d27-d9fdf3f9b9a8)
 
-## Learning Laravel
+CRUD siswa
+GET
+![http___localhost_8000_api_login - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 19 50 02](https://github.com/user-attachments/assets/fdc20f85-67c0-4f36-b83f-bef3c8561ac6)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+POST
+![http___localhost_8000_api_siswa - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 19 51 24](https://github.com/user-attachments/assets/934d90c0-2caa-4436-879c-45761cadec4e)
+![http___localhost_8000_api_siswa - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 19 52 11](https://github.com/user-attachments/assets/928fc4d2-4ebb-405f-a0aa-b9fad3943027)
+![http___localhost_8000_api_siswa - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 19 56 19](https://github.com/user-attachments/assets/28b167ef-48b1-4805-87ff-8c3e496bdb5b)
+![http___localhost_8000_api_siswa_2 - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 20 00 14](https://github.com/user-attachments/assets/64e95481-46a5-4f92-9d78-e7e64a28380d)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+PUT
+![http___localhost_8000_api_siswa_2 - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 20 06 19](https://github.com/user-attachments/assets/dc3f39bb-9e4f-489c-8ade-ef92c3bb49e3)
+![http___localhost_8000_api_siswa_2 - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 20 06 47](https://github.com/user-attachments/assets/15d8e6e5-5af8-4f78-a834-2f854c91a5b7)
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+DELETE
+![http___localhost_8000_api_siswa_2 - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 20 08 38](https://github.com/user-attachments/assets/a678b9ff-73cb-405b-931c-0d4cbb940443)
 
-## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
