@@ -28,5 +28,13 @@ PUT
 DELETE
 ![http___localhost_8000_api_siswa_2 - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 20 08 38](https://github.com/user-attachments/assets/a678b9ff-73cb-405b-931c-0d4cbb940443)
 
+# Tugas
+• Tambahkan	validasi	untuk	memastikan	bahwa:
+    Nama	siswa	hanya	mengandung	huruf	dan	spasi.
+    Kelas	mengikuti	format	tertentu	(misalnya,	"XII	IPA	1").
+    Umur	berada	dalam	rentang	6	hingga	18	tahun.
+![http___localhost_8000_api_siswa - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 20 51 58](https://github.com/user-attachments/assets/e12cd087-4e43-41da-96cf-3b0a03568a98)
+![http___localhost_8000_api_siswa - kjzcvxkjhnvcjlkdsnv Workspace 16_11_2024 20 52 27](https://github.com/user-attachments/assets/bde9b6c4-1fb9-42d9-bc2b-a140d9daa0bc)
+
 
 
